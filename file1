@@ -1,1 +1,16 @@
-hello github
+Hello This is Terraform topics
+This is Terrform HCL(Hashicorp Configuration Language)
+terraform
+providers
+resources
+variales
+statefiles
+modules
+outputs
+locals
+backends
+modules
+meta arguments
+import command
+provisioners
+
